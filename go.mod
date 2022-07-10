@@ -1,4 +1,4 @@
-module skywalking.apache.org/repo/goapi
+module github.com/easonyipj/skywalking-goapi
 
 go 1.16
 
