@@ -17,8 +17,8 @@
 # specific language governing permissions and limitations
 # under the License.
 
-export COLLECT_PROTOCOL_SHA=fa70b87c9b50a4ba7f78ff9599c70279752b32eb
-export QUERY_PROTOCOL_SHA=3adb9f68649b1a03fa3fa664192ff4bd7523f18b
+export COLLECT_PROTOCOL_SHA=e89af18cc7be7dc04ec4a7c4ff75f0ae19fa929b
+export QUERY_PROTOCOL_SHA=aba0de18fc934f6a20fd075ffe1a3df01ad1c80f
 export ENVOY_SERVICE_PROTOCOL_SHA=533b32f1b390a3a88ec2008d0561e07c926d879a
 export XDS_SERVICE_PROTOCOL_SHA=25de7278fc844d392d607214f36dbedf50f167ee
 export PROTOC_VALIDATE_SHA=v0.6.1
